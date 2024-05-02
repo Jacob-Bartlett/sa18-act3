@@ -1,0 +1,29 @@
+[
+    {
+        "model": "myapp.product",
+        "pk": 1,
+        "fields": {
+            "name": "Soap",
+            "price": 2.99,
+            "desc": "It's soap?"
+        }
+    },
+    {
+        "model": "myapp.product",
+        "pk": 2,
+        "fields": {
+            "name": "I dislike sa18!",
+            "price": 3.99,
+            "desc": "A bunch of reasons"
+        }
+    },
+    {
+        "model": "myapp.product",
+        "pk": 3,
+        "fields": {
+            "name": "erm, help",
+            "price": 4.99,
+            "desc": "jk, lolz"
+        }
+    }
+]
